@@ -1,19 +1,14 @@
 .page {
   min-width: 1100px;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
   max-width: 1600px;
-  /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .header {
   height: 100vh;
   min-height: 600px;
-  max-height: 756px;
-  /* выше установили ограничения для секции */
+  max-height: 756px;/
   position: relative;
   display: flex;
   justify-content: flex-start;
@@ -55,9 +50,7 @@
 }
 
 .header__subtitle_font {
-  /*height: 25px; Если оставить данную высоту блока, как в референс,
-   то блок становится слишком узкий и текст съезжает. Возможно,
-   имелось ввиду свойство line-height(расстояние между строками)*/
+  /*height: 25px;*/
   font-size: 18px;
   font-weight: normal;
   line-height: 25px
@@ -104,7 +97,6 @@
   top: 64px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: blue;
