@@ -171,8 +171,6 @@
   font-weight: normal;
 }
 
-/*Сделал отступы грубо нативно, так как не получилось убрать отступы
- блоков из two-columns__main-text с помощью justify-content и align-content*/
 .two-columns__paragraph_1 {
   margin: 0 auto;
 }
