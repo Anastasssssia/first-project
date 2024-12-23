@@ -14,8 +14,4 @@ Cоздание типового одностраничного сайта. За
 * Папка images содержит изображения.
 * Файл README.md находится в корне проекта.
 
-
-
-
-
-<img width="1512" alt="Снимок экрана 2024-12-23 в 7 28 07 PM" src="https://github.com/user-attachments/assets/bc83a1e5-8570-4533-b347-420c8b26e9e2" />
+<img width="900" alt="Снимок экрана 2024-12-23 в 7 28 07 PM" src="https://github.com/user-attachments/assets/bc83a1e5-8570-4533-b347-420c8b26e9e2" />
